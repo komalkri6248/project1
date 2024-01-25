@@ -1,0 +1,22 @@
+.header
+{
+    padding: 50px  50px   20px  0px;
+    text-align: center;
+    line-height: 5px;
+}
+.btn
+button{
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    float: right;
+    margin-right: 50px;
+    text-align: left;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
